@@ -1,0 +1,29 @@
+form{
+    position: relative;
+    display: block !important;
+    top: 2em;
+}
+.card.mb-3{
+	margin-top: 3em;
+	display: none;
+}
+
+.alert {
+   background-color: rgb(255 193 7 / 66%);
+	display: none;
+    top: 2em;
+    width: 60%;}
+    .card-body{
+              padding: .5rem 1.25rem 0 !important;
+              }
+              .card-header {
+    font-weight: 600; text-align: center;}
+    p{font-weight: 500}
+    .card-footer {
+    text-align: center;
+    color: #6c757d;
+    padding: 0;
+}
+    .card-footer p {
+    margin-bottom: 0;
+}
